@@ -1,9 +1,8 @@
 # Retinova-Capstone-C242-PS435
 
-```markdown
-
 Retinova is an AI-powered mobile application for early detection of diabetic retinopathy (DR) using retinal images. This app aims to assist healthcare providers and individuals with diabetes in remote and underserved areas by enabling quick, reliable, and affordable screening using Android devices. The app analyzes retinal images to detect early signs of DR, providing users with preventive insights and personalized lifestyle recommendations.
 
+```markdown
 ## Features
 - **AI-Powered DR Detection**: Uses deep learning models to analyze retinal images and detect DR.
 - **Offline Mode with TensorFlow Lite**: Model inference directly on Android devices without requiring an internet connection.
