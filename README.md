@@ -4,17 +4,17 @@ Retinova is an AI-powered mobile application for early detection of diabetic ret
 
 ```markdown
 ## Features
-- **AI-Powered DR Detection**: Uses deep learning models to analyze retinal images and detect DR.
-- **Offline Mode with TensorFlow Lite**: Model inference directly on Android devices without requiring an internet connection.
-- **User-Friendly Interface**: Simple design that allows easy capture and analysis of retinal images.
-- **Healthcare Integration**: Option to share results with healthcare providers for follow-up.
-- **Secure Data Handling**: User data is processed with privacy in mind, following healthcare and AI ethics.
+- AI-Powered DR Detection: Uses deep learning models to analyze retinal images and detect DR.
+- Offline Mode with TensorFlow Lite: Model inference directly on Android devices without requiring an internet connection.
+- User-Friendly Interface: Simple design that allows easy capture and analysis of retinal images.
+- Healthcare Integration: Option to share results with healthcare providers for follow-up.
+- Secure Data Handling: User data is processed with privacy in mind, following healthcare and AI ethics.
 
 ## Tech Stack
-- **Android Studio**: Main IDE for Android app development.
-- **TensorFlow Lite**: For deploying and running the deep learning model on mobile devices.
-- **Python**: Used for initial model training with TensorFlow and Keras.
-- **Google Colab**: GPU support for deep learning model training.
+- Android Studio: Main IDE for Android app development.
+- TensorFlow Lite: For deploying and running the deep learning model on mobile devices.
+- Python: Used for initial model training with TensorFlow and Keras.
+- Google Colab: GPU support for deep learning model training.
 
 
 ## Clone the repository:
@@ -37,9 +37,9 @@ Retinova is an AI-powered mobile application for early detection of diabetic ret
 3. Integrate `model.tflite` into the Android project (place in `assets` folder).
 
 ## Ethical Considerations
-- **Data Privacy**: All user data is handled following HIPAA and GDPR guidelines.
-- **Transparency and Accountability**: The AI model is designed to ensure accuracy and fairness in its predictions.
-- **Healthcare Ethics**: The app is intended to support, not replace, medical diagnosis by certified healthcare professionals.
+- Data Privacy: All user data is handled following HIPAA and GDPR guidelines.
+- Transparency and Accountability**: The AI model is designed to ensure accuracy and fairness in its predictions.
+- Healthcare Ethics: The app is intended to support, not replace, medical diagnosis by certified healthcare professionals.
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
@@ -55,7 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Retinova** - Bringing accessible healthcare to all, one scan at a time.
+Retinova - Bringing accessible healthcare to all, one scan at a time.
 ```
 
 **Note:** Adjust paths, repository URLs, and contact information as necessary for your project. This README provides an organized overview for contributors and users, covering installation, usage, technical stack, and ethical considerations.
